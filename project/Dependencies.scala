@@ -2,7 +2,7 @@ import sbt._
 import Keys._
 
 object Version {
-  val jol = "0.5"
+  val jol = "0.9"
 }
 
 object Dependencies {
